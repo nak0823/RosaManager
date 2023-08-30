@@ -1,0 +1,19 @@
+# Ignore Node.js build artifacts
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Ignore environment files
+.env
+
+# Ignore configuration files
+config.json
+
+# Ignore compiled output
+dist/
+build/
+
+# Ignore backup and temporary files
+*.bak
+*.tmp
